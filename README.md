@@ -1,16 +1,18 @@
-## Hi there 👋
+#  Hi, I'm Raswanth
 
-<!--
-**raswanthx7/raswanthx7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub.
 
-Here are some ideas to get you started:
+I'm a self-driven individual who values continuous learning and growth.  
+This space reflects my dedication to improving, staying curious, and building with purpose.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Let's Connect
+
+- [**LinkedIn**](https://www.linkedin.com/in/raswanth-k-m)  
+- [**EMAIL**](mailto:k.m.raswanth2004@gmail.com)
+
+---
+
+> **"Start where you are. Use what you have. Then do what no one thought you could."**
+
+
+
