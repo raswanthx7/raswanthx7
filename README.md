@@ -8,7 +8,7 @@ This space reflects my dedication to improving, staying curious, and building wi
 ##  Let's Connect
 
 - [**LinkedIn**](https://www.linkedin.com/in/raswanth-k-m)  
-- [**EMAIL**](mailto:k.m.raswanth2004@gmail.com)
+
 
 ---
 
