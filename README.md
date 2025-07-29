@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=raswanthx7&label=Profile%20views&color=0e75b6&style=flat)
+
 #  Hi, I'm Raswanth
 
 Welcome to my GitHub.
