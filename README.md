@@ -1,22 +1,24 @@
-![Profile views](https://komarev.com/ghpvc/?username=raswanthx7&label=Profile%20views&color=0e75b6&style=flat)
+![visitors](https://komarev.com/ghpvc/?username=raswanthx7&label=Profile%20views&color=0e75b6&style=flat)
 
-#  Hi, I'm Raswanth
+##  Hi, I'm Raswanth
 
-Welcome to my GitHub.
+### Welcome to my GitHub.
 
-I'm a self-driven individual who values continuous learning and growth.  
-This space reflects my dedication to improving, staying curious, and building with purpose.
+I'm a curious and motivated individual who believes in learning step by step, exploring new topics, and growing at my own pace. Each contribution I make brings me one step closer to excellence, as I continue building skills and working toward a meaningful future in cloud technology.
+
+## 📈 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=raswanthx7)](https://git.io/streak-stats)
 
 
-##  Let's Connect
+##  Let's Connect and Grow Together!
 
 - [**LinkedIn**](https://www.linkedin.com/in/raswanth-k-m)  
 
 
 ---
-
+ ### **motto**
+ 
 > **"Start where you are. Use what you have. Then do what no one thought you could."**
 
 
