@@ -7,6 +7,9 @@ Welcome to my GitHub.
 I'm a self-driven individual who values continuous learning and growth.  
 This space reflects my dedication to improving, staying curious, and building with purpose.
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=raswanthx7)](https://git.io/streak-stats)
+
+
 ##  Let's Connect
 
 - [**LinkedIn**](https://www.linkedin.com/in/raswanth-k-m)  
