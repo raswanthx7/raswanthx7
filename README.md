@@ -13,7 +13,8 @@ I'm a curious and motivated individual who believes in learning step by step, ex
 
 ##  Let's Connect and Grow Together!
 
-- [**LinkedIn**](https://www.linkedin.com/in/raswanth-k-m)  
+ <a href="https://www.linkedin.com/in/raswanth-k-m/" target="_blank" style="text-decoration: none;">
+                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn"> 
 
 
 ---
